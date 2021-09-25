@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/meodai/color-names/issues"
   },
-  "homepage": "https://github.com/meodai/color-names#readme",
+  "homepage": "https://color-names.vercel.app",
   "devDependencies": {
     "closestvector": "^0.6.0",
     "commitizen": "^4.2.4",
